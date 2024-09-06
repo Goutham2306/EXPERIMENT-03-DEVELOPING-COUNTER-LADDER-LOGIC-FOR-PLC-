@@ -81,7 +81,9 @@ Test the counters with the physical push buttons and observe the LEDs or other o
 
 ### Outputs:
 Up Counter (CTU): The output LED or indicator should activate when the preset count (e.g., 10) is reached.
+
 Down Counter (CTD): The output should activate when the count reaches zero.
+
 Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
 
 ### Simulation Screenshots:
