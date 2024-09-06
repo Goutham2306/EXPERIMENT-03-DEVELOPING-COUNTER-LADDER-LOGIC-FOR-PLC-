@@ -9,11 +9,17 @@ To understand and implement various counter operations in Programmable Logic Con
 
 ### Apparatus Required:
 Programmable Logic Controller (PLC): A PLC that supports counter functions.
+
 PLC Programming Software: Software such as RSLogix, TIA Portal, or CX-Programmer.
+
 Computer System: For programming and simulating the PLC ladder logic.
+
 Input Devices: Push buttons or switches to trigger the counter operations.
+
 Output Devices: LEDs or other indicators to visualize the counter outputs.
+
 Wires and Connectors: For interfacing input/output devices with the PLC.
+
 Power Supply: Appropriate power supply for the PLC and peripherals.
 
 ### Theory:
